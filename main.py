@@ -6,6 +6,7 @@ from finance_complaint.logger import logger
 from finance_complaint.config.pipeline.training import FinanceConfig
 import sys
 
+# Thank you
 
 def start_training(start=False):
     try:
